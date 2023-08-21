@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="send_email">Send Email</string>
+</resources>
