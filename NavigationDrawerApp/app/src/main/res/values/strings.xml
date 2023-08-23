@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationDrawerApp</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
