@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Workshop1App</string>
+    <string name="calculate_sum">Calculate Sum</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="the_sum_is">The sum is:</string>
+    <string name="workshop_1">Workshop 1</string>
+    <style name="Base.Theme.Workshop1App" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Workshop1App" parent="Base.Theme.Workshop1App"/>
+</resources>
