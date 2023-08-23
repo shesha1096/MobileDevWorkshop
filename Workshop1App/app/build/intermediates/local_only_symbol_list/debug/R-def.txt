@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id num1_input
+id num2_input
+id submit_btn
+id sum_output
+id workshop_title
+layout activity_launch
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string calculate_sum
+string enter_first_number
+string enter_second_number
+string enter_your_name
+string submit
+string the_sum_is
+string workshop_1
+style Base.Theme.Workshop1App
+style Theme.Workshop1App
+xml backup_rules
+xml data_extraction_rules

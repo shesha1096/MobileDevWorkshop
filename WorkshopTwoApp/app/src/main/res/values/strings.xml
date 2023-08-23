@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WorkshopTwoApp</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_subject">Enter Subject</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="send_email">Send Email</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="no_account_sign_up">No Account? Sign up</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="login_with_your_email">Login with your Email</string>
+    <string name="home_activity">Home Activity</string>
+    <string name="welcome_text">Welcome,</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_description">Movie Description</string>
+</resources>
