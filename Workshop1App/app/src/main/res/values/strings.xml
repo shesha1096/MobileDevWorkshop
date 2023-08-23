@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Workshop1App</string>
+    <string name="workshop_1">Workshop 1</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="calculate_sum">Calculate Sum</string>
+    <string name="the_sum_is">The sum is:</string>
+</resources>
