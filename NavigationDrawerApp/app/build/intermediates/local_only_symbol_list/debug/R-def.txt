@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id drawer_layout
+id fragment_container
+id nav_item1
+id nav_item2
+id nav_view
+id textView
+id toolbar
+layout activity_main
+layout fragment_default
+layout fragment_item_one
+layout nav_header
+menu nav_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string close
+string item_1
+string item_2
+string open
+style Base.Theme.NavigationDrawerApp
+style Theme.NavigationDrawerApp
+xml backup_rules
+xml data_extraction_rules
