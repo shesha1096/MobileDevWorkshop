@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_firstFragment_to_secondFragment
+id firstFragment
+id navHostFragment
+id nav_graph
+id nextButton
+id secondFragment
+id textView
+layout activity_main
+layout fragment_first
+layout fragment_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation nav_graph
+string app_name
+style Base.Theme.NavigationGraph
+style Theme.NavigationGraph
+xml backup_rules
+xml data_extraction_rules
