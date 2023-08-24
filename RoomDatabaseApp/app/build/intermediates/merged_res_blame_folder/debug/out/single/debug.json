@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\layout_drawer_layout.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\layout\\drawer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\layout_activity_list_cars.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\layout\\activity_list_cars.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\menu_options_menu.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:/drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:/drawable/ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:/drawable_ic_add_circle_24dp_background.xml.flat",
+        "source": "com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:/drawable/ic_add_circle_24dp_background.xml"
+    },
+    {
+        "merged": "com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:/drawable_car_bg.jpeg.flat",
+        "source": "com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:/drawable/car_bg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\layout_car_card.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\layout\\car_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\layout_appbar_layout.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\layout\\appbar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:/drawable_ic_add_circle_24dp_foreground.xml.flat",
+        "source": "com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:/drawable/ic_add_circle_24dp_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shesh\\.gradle\\daemon\\8.0\\com.shesha.mobiledevworkshop.roomdatabaseapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

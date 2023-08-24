@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/add_car_drawer"
+            android:title="@string/add_car" />
+
+        <item
+            android:id="@+id/remove_last_car_drawer"
+            android:title="@string/remove_last_car" />
+        <item
+            android:id="@+id/remove_all_cars_drawer"
+            android:title="@string/remove_all_cars" />
+        <item
+            android:id="@+id/list_all_cars"
+            android:title="@string/list_cars" />
+
+    </group>
+
+
+</menu>
