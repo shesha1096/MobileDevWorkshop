@@ -7,4 +7,12 @@
 
     <!-- Add your header content here -->
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile Dev Workshop"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        />
+
 </LinearLayout>

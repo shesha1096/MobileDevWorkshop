@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                             .commit();
                 } else if (item.getItemId() == R.id.nav_item2) {
                     getSupportFragmentManager().beginTransaction()
-                            .replace(R.id.fragment_container, new ItemOneFragment())
+                            .replace(R.id.fragment_container, new ItemTwoFragment())
                             .addToBackStack(null)
                             .commit();
                 }
