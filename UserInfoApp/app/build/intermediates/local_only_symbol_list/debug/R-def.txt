@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id add_user_btn
+id list_all_user_btn
+id user_email_input
+id username_input
+layout activity_list_users
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add_user
+string app_name
+string enter_the_email
+string enter_the_username
+string list_all_users
+style Base.Theme.UserInfoApp
+style Theme.UserInfoApp
+xml backup_rules
+xml data_extraction_rules

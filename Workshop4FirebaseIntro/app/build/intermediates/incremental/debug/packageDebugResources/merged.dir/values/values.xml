@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_user">Add user</string>
+    <string name="app_name">Workshop4FirebaseIntro</string>
+    <string name="default_web_client_id" translatable="false">599845078696-gug9m9umakv4lc9r20pjngqoo3v9h360.apps.googleusercontent.com</string>
+    <string name="enter_the_email">Enter the email</string>
+    <string name="enter_the_username">Enter the username</string>
+    <string name="gcm_defaultSenderId" translatable="false">599845078696</string>
+    <string name="google_api_key" translatable="false">AIzaSyBYKDrXCzYmX1ojiGAyITVfOj6K-07vi7M</string>
+    <string name="google_app_id" translatable="false">1:599845078696:android:8738248fee02cb4148249d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBYKDrXCzYmX1ojiGAyITVfOj6K-07vi7M</string>
+    <string name="google_storage_bucket" translatable="false">devworkshopfirebasedemo.appspot.com</string>
+    <string name="list_all_users">List All Users</string>
+    <string name="project_id" translatable="false">devworkshopfirebasedemo</string>
+    <style name="Base.Theme.Workshop4FirebaseIntro" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Workshop4FirebaseIntro" parent="Base.Theme.Workshop4FirebaseIntro"/>
+</resources>
