@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserInfoApp</string>
+    <string name="enter_the_username">Enter the username</string>
+    <string name="enter_the_email">Enter the email</string>
+    <string name="add_user">Add User</string>
+    <string name="list_all_users">List All Users</string>
+</resources>

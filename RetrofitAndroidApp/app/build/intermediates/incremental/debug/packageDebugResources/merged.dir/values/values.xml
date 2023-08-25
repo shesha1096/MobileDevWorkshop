@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">RetrofitAndroidApp</string>
+    <style name="Base.Theme.RetrofitAndroidApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.RetrofitAndroidApp" parent="Base.Theme.RetrofitAndroidApp"/>
+</resources>
