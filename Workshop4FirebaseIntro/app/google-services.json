@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599845078696",
+    "project_id": "devworkshopfirebasedemo",
+    "storage_bucket": "devworkshopfirebasedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599845078696:android:8738248fee02cb4148249d",
+        "android_client_info": {
+          "package_name": "com.shesha.mobiledevworkshop.workshop4firebaseintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599845078696-gug9m9umakv4lc9r20pjngqoo3v9h360.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKDrXCzYmX1ojiGAyITVfOj6K-07vi7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599845078696-gug9m9umakv4lc9r20pjngqoo3v9h360.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
