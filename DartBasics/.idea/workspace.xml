@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bedefecc-33d6-4244-acf4-5edb4aca1bcc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/classes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/conditional_operators.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/functions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/lists.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/loops.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/maps.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/operators.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/public_vs_private.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/variables_and_data_types.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ\IntelliJ IDEA Community Edition 2020.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2UYQGMDs2rvqaMCWL5naJWjQ3Am" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/demo/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/demo" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bedefecc-33d6-4244-acf4-5edb4aca1bcc" name="Changes" comment="" />
+      <created>1693113937384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693113937384</updated>
+    </task>
+    <servers />
+  </component>
+</project>
